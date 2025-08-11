@@ -1,16 +1,16 @@
-## Hi there 👋
+### Olá tudo bem?👋
+#### Me chamo Alex Cordeiro
+#### Estou aprendendo a linguagem de programação Python
 
-<!--
-**cordeiro04007/CORDEIRO04007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img height='150em' src='https://github-readme-stats.vercel.app/api?username=CORDEIRO04007&theme=dracula&show_icons=true'>
 
-Here are some ideas to get you started:
+<img height='150em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=CORDEIRO04007&layout=compact'>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## CONTATO
+<a href="https://www.linkedin.com/in/alex-cordeiro-a89b11205/">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" align="center" height="50">
+
+</a>
+
+## LINGUAGENS
